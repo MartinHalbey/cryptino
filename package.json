@@ -1,0 +1,23 @@
+
+**package.json:**
+```json
+{
+  "name": "cryptino",
+  "version": "1.0.0",
+  "description": "Decentralized lending and borrowing platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "blockchain",
+    "smart contracts",
+    "lending",
+    "borrowing"
+  ],
+  
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
+}

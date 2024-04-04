@@ -1,6 +1,6 @@
 # Cryptino
 
-Cryptino is a decentralized lending and borrowing platform that enables individuals and small businesses to access microfinance services without intermediaries. It utilizes smart contracts to automate loan issuance, collateral management, and interest rate determination, providing financial inclusion to underserved communities.
+Cryptino is a decentralized lending and borrowing platform that enables individuals and small businesses to access microfinance services without intermediaries. It utilizes Solana technology and smart contracts to automate loan issuance, collateral management, and interest rate determination, providing financial inclusion to underserved communities.
 
 ## Features
 
